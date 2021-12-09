@@ -15,6 +15,9 @@
         }
     ],
     "license": "MIT",
+    "replace": {
+        "digital-creative/nova-inline-morph-to":"0.*"
+    }
     "require": {
         "php": ">=7.1.0"
     },
